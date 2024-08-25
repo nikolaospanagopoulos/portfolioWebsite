@@ -47,7 +47,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            "Hello, I'm Nikolaos Panagopoulos, a software engineer from Patras,
+            Hello, I am Nikolaos Panagopoulos, a software engineer from Patras,
             Greece, with over 4 years of experience. I’m passionate about both
             web and OS development, with expertise in JavaScript, C/C++, Java,
             and PHP. I thrive on building scalable web applications using
@@ -57,7 +57,7 @@ const AboutSection = () => {
             algorithms. Whether optimizing backend systems or exploring
             kernel-level code, I’m driven by the power of technology. I also
             freelance, sharing my expertise and continuously seeking new
-            challenges."
+            challenges.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

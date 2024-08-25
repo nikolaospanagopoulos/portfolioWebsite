@@ -35,9 +35,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            "OS and Full-Stack Developer blending low-level mastery with
+            OS and Full-Stack Developer blending low-level mastery with
             cutting-edge web tech. I build efficient systems and seamless apps,
-            all with clean code and performance in mind."
+            all with clean code and performance in mind.
           </p>
           <div>
             <Link
