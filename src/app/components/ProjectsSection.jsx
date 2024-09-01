@@ -32,6 +32,15 @@ const projectsData = [
     tag: ["All", "OS"],
     gitUrl: "https://github.com/nikolaospanagopoulos/Panavim",
   },
+  {
+    id: 4,
+    title: "Search Engine",
+    description:
+      "Fully Dockerized PHP-based search engine with advanced features like telemetry and image search. The project is built using PHP 8.2, MySQL, and Apache, all containerized for easy deployment and scalability. This search engine efficiently handles text queries, with telemetry for tracking user interactions to optimize search results",
+    image: "/images/projects/search_engine.png",
+    tag: ["All", "OS"],
+    gitUrl: "https://github.com/nikolaospanagopoulos/searchEngine",
+  },
 ];
 
 const ProjectsSection = () => {
