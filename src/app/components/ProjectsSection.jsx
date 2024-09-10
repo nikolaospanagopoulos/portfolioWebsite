@@ -34,11 +34,20 @@ const projectsData = [
   },
   {
     id: 4,
+    title: "Spring Boot Api",
+    description:
+      "Spring Boot-based API for managing events and ticket bookings, featuring JWT cookie-based authentication, Stripe payment integration, and QR code generation for tickets. The application allows users to securely register, login, book and buy tickets, and receive confirmation emails through Gmail SMTP. Admins can manage events via CRUD operations. The project is fully Dockerized, making it scalable and easy to deploy, and uses MySQL for database management.",
+    image: "/images/projects/springboot.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/nikolaospanagopoulos/ticketing",
+  },
+  {
+    id: 5,
     title: "Search Engine",
     description:
       "Fully Dockerized PHP-based search engine with advanced features like telemetry and image search. The project is built using PHP 8.2, MySQL, and Apache, all containerized for easy deployment and scalability. This search engine efficiently handles text queries, with telemetry for tracking user interactions to optimize search results",
     image: "/images/projects/search_engine.png",
-    tag: ["All", "OS"],
+    tag: ["All", "Web"],
     gitUrl: "https://github.com/nikolaospanagopoulos/searchEngine",
   },
 ];
