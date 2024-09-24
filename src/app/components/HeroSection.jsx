@@ -41,7 +41,7 @@ const HeroSection = () => {
           </p>
           <div>
             <Link
-              href="/Nikolaos_Panagopoulos_-_Software_Engineer (1).pdf"
+              href="/nikos_panagopoulos.pdf"
               download
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
