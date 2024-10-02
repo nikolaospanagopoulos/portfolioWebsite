@@ -50,6 +50,15 @@ const projectsData = [
     tag: ["All", "Web"],
     gitUrl: "https://github.com/nikolaospanagopoulos/searchEngine",
   },
+  {
+    id: 5,
+    title: "In Memory Key Value Store",
+    description:
+      "A multi-threaded, in-memory key-value store inspired by Redis using C++. The server handles concurrent client connections with a custom thread pool, ensuring efficient task processing. The key-value store is implemented with a custom-built hash map (UnorderedMap) that supports dynamic resizing and thread-safe operations with shared_mutex. I implemented several basic commands such as SET, GET, DEL, EXISTS, and more, making the server capable of handling common Redis-like operations.",
+    image: "/images/projects/redis.png",
+    tag: ["All", "Web", "OS"],
+    gitUrl: "https://github.com/nikolaospanagopoulos/keyValueStore",
+  },
 ];
 
 const ProjectsSection = () => {
