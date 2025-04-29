@@ -48,7 +48,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             Hello, I am Nikolaos Panagopoulos, a software engineer from Patras,
-            Greece, with over 4 years of experience. I’m passionate about both
+            Greece, with over 6 years of experience. I’m passionate about both
             web and OS development, with expertise in JavaScript, C/C++, Java,
             and PHP. I thrive on building scalable web applications using
             RESTful APIs and microservices, alongside mastering systems
